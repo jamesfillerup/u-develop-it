@@ -1,0 +1,28 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "**Title:**   Create a database that contains the candidates table",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "main": "^1000.0.1+querie.cc",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesfillerup/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesfillerup/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/jamesfillerup/u-develop-it#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
